@@ -11,10 +11,9 @@ It works by shifting each letter in the alphabet by a chosen number.
   Decrypts the text back to the original message using the same shift value.
 
 ## Example
-encrypt("hello", 3) → "khoor"
-decrypt("khoor", 3) → "hello"
+- encrypt("hello", 3) → "khoor"
 
-## Purpose
+- decrypt("khoor", 3) → "hello"
 
 ## Purpose
 This project is part of my Python learning journey and was created while following the freeCodeCamp curriculum.
