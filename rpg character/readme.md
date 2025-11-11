@@ -1,4 +1,4 @@
-### RPG Character
+# RPG Character
 
 This project is a Python program that allows you to create a simple RPG (Role-Playing Game) character. The program validates character information and visually displays the character’s stats using symbols.
 
