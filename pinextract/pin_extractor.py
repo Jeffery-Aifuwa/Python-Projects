@@ -12,20 +12,4 @@ def pin_extractor(poems):
         secret_codes.append(secret_code)
     return secret_codes
 
-poem = """Stars and the moon
-shine in the sky
-white and
-until the end of the night"""
-
-poem2 = """The grass is green
-here and there
-hoping for rain
-before it turns yellow"""
-
-poem3 = """Whispers drift across the sea  
-Dreams awaken silently  
-Stars align where hearts belong  
-Night hums its eternal song  
-"""
-
 print(pin_extractor([poem, poem2, poem3]))
